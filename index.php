@@ -117,20 +117,20 @@
      	<?php } ?>
 		<label>select user</label>
         <select name="user" class="form-control" style="margin-bottom: 20px;">
-            <option value=0 selected>------</option>
-            <option value=1>student</option>
-            <option value=2>teacher</option>
-            <option value=3>parent</option>
-            <option value=4>admin</option>
+            <option values=0 selected>------</option>
+            <option values=1>student</option>
+            <option values=2>teacher</option>
+            <option values=3>parent</option>
+            <option values=4>admin</option>
         </select>
         <br>
      	<label >User Name</label>
-     	<input type="text" name="email" placeholder="User email" ><br>
+     	<input type="text" name="emails" placeholder="User email" ><br>
 
      	<label>Password</label>
-     	<input type="password" name="password" placeholder="Password"><br>
+     	<input type="password" name="passwords" placeholder="Password"><br>
 
-     	<button type="submit">Login</button>
+     	<button type="submitt">Login</button>
      </form>
      
 </body>
