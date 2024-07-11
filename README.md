@@ -1,22 +1,22 @@
 ## Screenshots
 ## Main Page
-![Main Page Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/accuil.jpeg)
+![Main Page Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/blob/main/accuil.jpeg)
 ## login page
-![dark mood Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/login.jpeg)
+![dark mood Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/blob/main/login.jpeg)
 ## admin home page
-![login Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/admin.jpeg)
+![login Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/blob/main/admin.jpeg)
 ## admin profile 
-![registration Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/adminpr.jpeg)
+![registration Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/blob/main/adminpr.jpeg)
 ## gestion of students
-![payment Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/adstudents.jpeg)
+![payment Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/blob/main/adstudents.jpeg)
 ## gestion of classes 
-![searching method Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/admincla.jpeg)
+![searching method Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/blob/main/admincla.jpeg)
 ## add items (student/teacher/ parents)
-![searching method Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/adminadd.jpeg)
+![searching method Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/blob/main/adminadd.jpeg)
 ## teacher home page 
-![searching method Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/teacher.jpeg)
+![searching method Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/blob/main/teacher.jpeg)
 ## teacher classes 
-![searching method Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/teachercla.jpeg)
+![searching method Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/blob/main/teachercla.jpeg)
 
 ## Getting Started
 
