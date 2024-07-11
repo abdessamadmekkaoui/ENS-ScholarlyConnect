@@ -1,22 +1,22 @@
 ## Screenshots
 ## Main Page
-![Main Page Screenshot](https://github.com/abdessamadmekkaoui/Influencer-Match/blob/main/accuil.jpeg)
+![Main Page Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/accuil.jpeg)
 ## login page
-![dark mood Screenshot](https://github.com/abdessamadmekkaoui/Influencer-Match/blob/main/login.jpeg)
+![dark mood Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/login.jpeg)
 ## admin home page
-![login Screenshot](https://github.com/abdessamadmekkaoui/Influencer-Match/blob/main/admin.jpeg)
+![login Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/admin.jpeg)
 ## admin profile 
-![registration Screenshot](https://github.com/abdessamadmekkaoui/Influencer-Match/blob/main/adminpr.jpeg)
+![registration Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/adminpr.jpeg)
 ## gestion of students
-![payment Screenshot](https://github.com/abdessamadmekkaoui/Influencer-Match/blob/main/adstudents.jpeg)
+![payment Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/adstudents.jpeg)
 ## gestion of classes 
-![searching method Screenshot](https://github.com/abdessamadmekkaoui/Influencer-Match/blob/main/admincla.jpeg)
+![searching method Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/admincla.jpeg)
 ## add items (student/teacher/ parents)
-![searching method Screenshot](https://github.com/abdessamadmekkaoui/Influencer-Match/blob/main/adminadd.jpeg)
+![searching method Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/adminadd.jpeg)
 ## teacher home page 
-![searching method Screenshot](https://github.com/abdessamadmekkaoui/Influencer-Match/blob/main/teacher.jpeg)
+![searching method Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/teacher.jpeg)
 ## teacher classes 
-![searching method Screenshot](https://github.com/abdessamadmekkaoui/Influencer-Match/blob/main/teachercla.jpeg)
+![searching method Screenshot](https://github.com/abdessamadmekkaoui/ENSkech-School-Management-System/teachercla.jpeg)
 
 ## Getting Started
 
